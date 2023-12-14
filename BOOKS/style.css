@@ -1,0 +1,30 @@
+
+body {
+    background-color: #f8f9fa; 
+}
+
+.card {
+    background-color: #17a2b8; 
+    color: #ffffff; 
+}
+
+.card-title {
+    color: #ffffff; 
+}
+
+.card-text {
+    color: #ffffff; 
+}
+
+header, footer {
+    text-align: center;
+    padding: 1rem;
+}
+
+header {
+    background-color: #343a40; 
+}
+
+footer {
+    background-color: #343a40; 
+}

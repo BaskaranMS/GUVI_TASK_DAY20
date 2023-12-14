@@ -1,0 +1,30 @@
+/* Add your custom styles here */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.card {
+    margin: 20px;
+    border: 1px solid #007bff; /* Primary color for card border */
+}
+
+.card-title {
+    color: #007bff; /* Primary color for card title */
+}
+
+.card-text {
+    color: #000000; /* Black color for card text */
+}
+
+header, footer {
+    text-align: center;
+    padding: 1rem;
+}
+
+header {
+    background-color: #343a40; /* Dark gray background for the header */
+}
+
+footer {
+    background-color: #343a40; /* Dark gray background for the footer */
+}
